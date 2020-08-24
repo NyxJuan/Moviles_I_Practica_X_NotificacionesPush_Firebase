@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "181063737548",
+    "firebase_url": "https://mynotifications-80e5c.firebaseio.com",
+    "project_id": "mynotifications-80e5c",
+    "storage_bucket": "mynotifications-80e5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181063737548:android:6826c25088facea391a269",
+        "android_client_info": {
+          "package_name": "com.example.practica_notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181063737548-svgvmgsmu96joe690pj3jkfckojou912.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.practica_notificaciones",
+            "certificate_hash": "84a1e9cee116c7d02f13deebce10651b65708ffd"
+          }
+        },
+        {
+          "client_id": "181063737548-f53te4298s4h0hosj8nbifuflt697unj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE3tdwbWq5F0z0IHSUblIli5ENjgR7XuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181063737548-f53te4298s4h0hosj8nbifuflt697unj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
